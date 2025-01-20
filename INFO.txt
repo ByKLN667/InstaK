@@ -1,0 +1,10 @@
+pip install requirements
+
+pip3 install instaloader
+
+pip install colorama
+
+pip install subprocess
+
+pip install sys
+
